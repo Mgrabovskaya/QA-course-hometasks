@@ -1,17 +1,17 @@
-# QA-course-hometasks
-Requiremenrs testing Rbit mobile application.
+# QA-course-tasks
+1. Requiremenrs testing Rbit mobile application.
 
-Pairwase testing.
+2. Pairwase testing.
 
-Smoke testing Rbit mobile application.
+3. Smoke testing Rbit mobile application.
 
-Exploratory testing Rbit mobile application and creation of bug reports.
+4. Exploratory testing Rbit mobile application and creation of bug reports.
 
-Equivalence partitioning and boundaries value analysis.
+5. Equivalence partitioning and boundaries value analysis.
 
-Creation state-transition tables
+6. Creation state-transition tables
 
-API testing (Postman)
+7. API testing (Postman)
 
-Modification HTTP requests and responses (Fiddler).
+8. Modification HTTP requests and responses (Fiddler).
 
