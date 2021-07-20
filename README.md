@@ -1,17 +1,17 @@
 # QA-course-hometasks
-Тестирование требований - мобильное android-приложение для создания маршрутов Rbit
+Requiremenrs testing Rbit mobile application.
 
-Попарное тестирование
+Pairwase testing.
 
-Смоук-тест мобильного приложения Rbit - разработка тест-кейсов
+Smoke testing Rbit mobile application.
 
-Исследовательское тестирование (Тур, отмененный из-за дождя и тур супермодели) мобильного приложения Rbit - оформление баг-репортов
+Exploratory testing Rbit mobile application and creation of bug reports.
 
-Разбиение на подобласти и поиск граничных значений
+Equivalence partitioning and boundaries value analysis.
 
-Построение тестовых последовательностей (диаграмма состояний и переходов)
+Creation state-transition tables
 
-Тестирование API (Postman)
+API testing (Postman)
 
-Модификация запросов и ответов в Fiddler
+Modification HTTP requests and responses (Fiddler).
 
